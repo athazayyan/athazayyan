@@ -27,7 +27,7 @@ int main() {
         avg = total/n;
         
       
-        printf("\nNilai Maksimum dari data adalah : %.3f", maksdata);//output nilai maks min dan rata-rata
+        printf("\nNilai Maksimum dari data adalah..: %.3f", maksdata);//output nilai maks min dan rata-rata
         printf("\nNilai Minimum dari data adalah : %.3f", mindata);
         printf("\nNilai Rata-Rata dari data adalah : %.3f", avg);
     } else {

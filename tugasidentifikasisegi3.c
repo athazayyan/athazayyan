@@ -13,7 +13,7 @@ int main (){
     {
         printf("Inshaalllah ini adalah segitiga sama sisi\n");
     }
-     else if (bagian1 == bagian2 || bagian2 == bagian3 || bagian3 == bagian1)//ini penggunaan atau '||' bisa menjadi kelompok kelompok kecil yang bisa membuat kita tidakmenulus lagi dengan panjang setiap kemungkinan
+     else if (bagian1 == bagian2 .|| bagian2 == bagian3 || bagian3 == bagian1)//ini penggunaan atau '||' bisa menjadi kelompok kelompok kecil yang bisa membuat kita tidakmenulus lagi dengan panjang setiap kemungkinan
     {
         printf(" Inshaallah ini adalah segitiga sama kaki\n");
     } 
